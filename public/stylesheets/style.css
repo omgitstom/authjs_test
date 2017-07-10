@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#okta-sign-in .button-primary {
+  background: linear-gradient(#000, #FFF);
+}
+
+#okta-sign-in .button-primary:hover {
+  background: linear-gradient(#000, #FFF);
+}
